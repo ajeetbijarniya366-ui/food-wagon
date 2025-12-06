@@ -1,0 +1,415 @@
+.body{
+   padding: 0%;
+   margin: 0;
+   box-sizing: border-box;
+   overflow-x: hidden;
+}
+
+.img{
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    
+    background-color: rgb(231, 168, 43);
+    display: flex;
+}
+.are {
+    color: white;
+    font-size: 50px;
+}
+.Address {
+ width: 100%;
+ margin-top: 50px;
+ margin-left: 80px;
+}
+.location {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.add {
+    font-size: 20px;
+    font-weight: bold;
+}
+.delivery {
+    padding: 10px;
+}
+.search {
+    padding: 20px 0 ;
+    display: flex;
+}
+.deli {
+    background-color: #f1ddc5;
+    color: #ff8800;
+    padding: 7px 15px ;
+    border-radius: 5px;
+    border: none;
+}
+
+.pick {
+    color: #757575;
+    padding: 7px 15px;
+    border-radius: 5px;
+    border: none;
+}
+.ipt {
+    width: 80%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #f5f5f5;
+    margin: 0;
+}
+.find {
+    background-color: #f65900;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 5px;
+    border: none;
+    white-space: nowrap;
+
+}
+.loc {
+    font-weight: lighter;
+}
+.butt{
+    width: 90px;
+    font-weight: bold;
+    color: #ff8800;
+    
+}
+.img1{
+    width: 700px;
+}
+.photo{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 170px ;   
+}
+
+.row{
+    padding-left: 20px;
+    
+}
+.imo{
+    width: 250px;
+}
+.Vage {
+    padding-left: 20px;
+}
+.day{
+    background-color: #f1ddc5;
+    color: #ff8800;
+    border: none;
+    padding: 10px;
+    border-radius: 13px;
+}
+.how{
+    text-align: center;
+    color: orange;
+}
+.img4{
+    display: flex;
+    padding-bottom: 50px;
+   margin-left: 300px;
+}
+
+.imgt {
+    margin-left: 20px;
+}
+.process {
+    font-size: small;
+    color: #757575;
+
+}
+    
+.select{
+    font-size:26px;
+    color: black;
+
+}
+.pop{
+    text-align: center;
+}
+.img5{
+    display: flex;
+    padding: 10px px;
+
+    
+}
+.chees{
+    margin-left: 20px;
+}
+.dj{
+    width: 250px;
+
+}
+
+.butto{
+    background-color: #f65900;
+   border: none;
+   border-radius: 5px;
+   padding: 7px 55px;
+    color: white;
+}
+.left{
+    padding: 100px 1px;
+      
+}
+.fr{
+    text-align: center;
+}
+.you{
+    display: flex;
+    padding-bottom: 40px;
+}
+.world{
+    width: 280px;
+   
+    
+    padding: 10px 10px;
+}
+.food{
+     margin-left: 20px;
+}
+.open{
+    background-color: pink;
+    border-radius: 10px;
+    color: #f65900;
+    width: 200px;
+    padding: 10px 30px;
+    border: none;
+    margin-left: 20px;
+   
+}
+.opens{
+    color: green;
+    background-color: rgb(161, 220, 161);
+    width: 150px;
+    border-radius: 10px;
+    padding:10px 30px ;
+    border: none;
+    margin: 20px;
+}
+.bittu{
+    display: flex;
+    padding-bottom: 30px;
+   
+}
+.bitu{
+    width: 900;
+    padding-left: 22px;
+    
+}
+.ruby{
+    background-color: #ff8800;
+    color: white;
+    border: none;
+     padding: 10px 20px;
+     border-radius: 10px;
+     margin-left: 20px;
+}
+.kf{
+    background-color: green;
+    color: white;
+     border: none;
+      padding: 10px 20px;
+      border-radius: 10px;
+      margin-left: 20px;
+}
+.ooo{
+    background-color: red;
+    color: white;
+     border: none;
+      padding: 10px 20px;
+      border-radius: 10px;
+      margin-left: 20px;
+}
+.taco{
+   background-color: #ff8800;
+   color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.order{
+    margin: 20px;
+    
+    background-color: rgb(162, 218, 162);
+    color: green;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 25px;
+}
+.font{
+    font-size: larger;
+    font-weight: lighter;
+}
+.sub{
+    background-color: rgb(240, 225, 227);
+     border-radius: 10px;
+}
+.butt{
+    padding: 10px 3px;
+    margin-left: 670px;
+
+}
+.all{
+    background-color: rgb(241, 178, 76);
+    color: white;
+   border: none;
+    padding: 8px 20px;
+    border-radius: 10px;
+}
+.view{
+    display: flex;
+    justify-content: space-between;
+
+}
+.right{
+   
+    
+    
+}
+
+.food {
+    display: flex;
+}
+.pra{
+    padding-left: px;
+    padding-top: px;
+}
+.pizz{
+    display: flex;
+
+}
+.pizza{
+    margin: 10px;
+    border-radius: 100%;
+}
+.burger{
+    padding-left: 80px;
+    font-size: larger;
+}
+.icon{
+    display: flex;
+    padding-top: 30px;
+    padding-left: 250px;
+    background-color: #e2d3c1;
+   
+}
+.love{
+    background-color: #f1ddc5;
+}
+.oo{
+    background-color: #f65900;
+}
+.daily{
+    color: #ff8800;
+    padding-top: 60px;
+    width: 100px;
+    padding-left: 10px;
+}
+.iphone{
+    display: flex;
+    justify-content: space-between;
+}
+.insta{
+    color: #ff8800;
+   margin-top: 200px;
+  padding-right: 300px;
+  
+}
+.png{
+    width: 230px;
+}
+.piz{
+    display: flex;
+    
+     background-color: rgb(238, 237, 237);
+   padding-top: 40px;
+    padding-left: 300px;
+}
+.deal{
+    background-color: rgb(255, 255, 255) ;
+}
+.best{
+    font-size: x-large;
+    padding-right: 60px;
+    padding-left: 40px;
+    
+    
+}
+.crip{
+    color: #ff8800;
+}
+.order{
+    background-color: #ff8800;
+    color: white;
+}
+.imi{
+    width: 570px;
+border-radius: 8px;
+}
+.part{
+    display: flex;
+    background-color: rgb(238, 237, 237);
+   padding-top: 40px;
+    padding-left: 300px;
+}
+.png1{
+    width: 570px;
+    border-radius: 8px;
+}
+.bab{
+    padding-left: 20px;
+}
+.cta{
+    width: 100%;
+    border-radius: 10px;
+}
+.our{
+    font-size: larger;
+    color: white;
+    background-color: black;
+}
+.sun{
+   
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.company{
+    display: flex;
+    justify-content: space-between;
+}
+.help{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+
+.f-left {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.Company {
+    margin: 2px 30px ;
+    
+}
+.cribe{
+    background-color: rgb(225, 186, 113);
+    color: white;
+    font-size: x-large;
+    border-radius: none;
+    border-radius: 10px;
+}
+@media(max-width:660px){
+    
+    
+}
